@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require_rel './flipper.rb'
+require_relative './flipper.rb'
 
 $flipper = Flipper.new
 
