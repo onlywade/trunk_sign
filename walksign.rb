@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
-require 'rubygems'
-require 'flipper'
+require 'flipper.rb'
 
 $flipper = Flipper.new
 
